@@ -1,7 +1,8 @@
 # 📊 **DDoS Detection System**
 
 ## 🚀 **Overview**
-The **DDoS Detection System** is a real-time network traffic monitoring and mitigation tool designed to detect Distributed Denial of Service (DDoS) attacks. It uses machine learning models to identify suspicious traffic patterns and trigger appropriate mitigation measures. This system supports both **Windows** and **Linux** environments.
+The **DDoS Detection System** is a real-time network traffic monitoring and mitigation tool designed to detect Distributed Denial of Service (DDoS) attacks. It uses a FeedForward Neural Network model(FNN) to identify suspicious traffic patterns and trigger appropriate mitigation measures. This system supports both **Windows** and **Linux** environments.
+Note: The CICIDS 2019 dataset is used for reference -> [CICIDS_2019_Kaggle(https://www.kaggle.com/datasets/tarundhamor/cicids-2019-dataset)]
 
 ---
 
